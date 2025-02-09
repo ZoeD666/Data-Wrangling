@@ -7,13 +7,6 @@ Technologies Used
 Programming Language: R
 
 
-Key Libraries:
-rvest (Web Scraping)
-tidyverse (Data Wrangling and Visualization)
-polite (Polite Web Scraping)
-xml2 (HTML/XML Parsing)
-
-
 Data Source
 
 The data was sourced from the IMDb Most Popular Movies page: https://www.imdb.com/chart/moviemeter/?ref_=nv_mv_mpm
