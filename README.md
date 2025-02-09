@@ -15,8 +15,11 @@ xml2 (HTML/XML Parsing)
 
 
 Data Source
+
 The data was sourced from the IMDb Most Popular Movies page: https://www.imdb.com/chart/moviemeter/?ref_=nv_mv_mpm
+
 This page provides a ranking of movies based on user activity and ratings, which is updated regularly. The project extracted the following key information:
+
 Movie Titles: Names of the movies.
 Movie Rankings: Real-time rankings based on popularity.
 
